@@ -1,0 +1,11 @@
+{
+    "name": "nikolay/nikolay",
+    "description": "training project",
+    "authors": [
+        {
+            "name": "Nikolay Kalashnikov",
+            "email": "kalash-job@yandex.ru"
+        }
+    ],
+    "require": {}
+}
